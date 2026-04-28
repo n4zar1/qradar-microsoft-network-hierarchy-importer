@@ -1,4 +1,4 @@
-# qradar-network-hierarchy-importer
+# qradar-microsoft-network-hierarchy-importer
 
 > Automatically download Microsoft Azure IP ranges and import them into IBM QRadar's Network Hierarchy — grouped by service tag, prefixed with `MS_`, and ready to use in rules and building blocks.
 
