@@ -39,7 +39,7 @@ AND NOT when the destination IP is part of network MS_AzureActiveDirectory
 | Script | Purpose |
 |---|---|
 | `qradar_microsoft_import.py` | Main script — download & import |
-| `qradar_cleanup_old_groups.py` | One-time rollback — remove entries created by this tool |
+| `stepback.py` | One-time rollback — remove entries created by this tool |
 
 ---
 
